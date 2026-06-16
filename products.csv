@@ -1,0 +1,13 @@
+product_id,product_name,category,price,rating
+1,Zinger Burger,Burger,650,2.8
+2,Beef Burger,Burger,750,3.6
+3,Chicken Burger,Burger,600,4.1
+4,Double Patty Burger,Burger,950,4
+5,Cheese Burger,Burger,700,2.6
+6,Fries,Sides,250,4.8
+7,Loaded Fries,Sides,450,2.9
+8,Coke,Drinks,120,4.4
+9,Pepsi,Drinks,120,3.8
+10,Mint Margarita,Drinks,350,2.9
+11,Ice Cream,Dessert,300,4.9
+12,Brownie,Dessert,400,2.9
